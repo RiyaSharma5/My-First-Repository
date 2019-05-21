@@ -11,7 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * list to print each name.
 
  * @author Sivagama
- */
+ *21 May,2019*/
 public class StudentTester {
     public static void main(String[] args)
     {
@@ -19,7 +19,7 @@ public class StudentTester {
         //array of StudentDemo objects
         StudentDemo[] StudentLst=new StudentDemo[3];
         
-        StudentDemo s1=new StudentDemo("Sheetal Thakar");
+        StudentDemo s1=new StudentDemo("Riya Sharma");
         StudentLst[0]=s1;
         
         StudentLst[1]=new StudentDemo("amrit kaur");
